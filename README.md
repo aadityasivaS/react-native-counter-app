@@ -13,7 +13,5 @@ A counter app made with [react native](https://reactnative.dev/), [expo](https:/
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
-
 
   
